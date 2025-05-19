@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MutationTesting.Web", "MutationTesting.Web\MutationTesting.Web.csproj", "{7777B246-787B-4882-A44B-6E86C3B93DE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MutationTesting.Application", "MutationTesting.Application\MutationTesting.Application.csproj", "{35DD847A-F9B4-4147-ADE4-3193BA3C6FE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MutationTesting.Infrastructure", "MutationTesting.Infrastructure\MutationTesting.Infrastructure.csproj", "{C24F5E80-A15C-4F62-8275-8E7294BC2801}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MutationTesting.Application.Test", "MutationTesting.Application.Test\MutationTesting.Application.Test.csproj", "{589C7B01-D878-4FD4-B108-36D7BFB119C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7777B246-787B-4882-A44B-6E86C3B93DE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7777B246-787B-4882-A44B-6E86C3B93DE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7777B246-787B-4882-A44B-6E86C3B93DE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7777B246-787B-4882-A44B-6E86C3B93DE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35DD847A-F9B4-4147-ADE4-3193BA3C6FE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35DD847A-F9B4-4147-ADE4-3193BA3C6FE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35DD847A-F9B4-4147-ADE4-3193BA3C6FE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35DD847A-F9B4-4147-ADE4-3193BA3C6FE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C24F5E80-A15C-4F62-8275-8E7294BC2801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C24F5E80-A15C-4F62-8275-8E7294BC2801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C24F5E80-A15C-4F62-8275-8E7294BC2801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C24F5E80-A15C-4F62-8275-8E7294BC2801}.Release|Any CPU.Build.0 = Release|Any CPU
+		{589C7B01-D878-4FD4-B108-36D7BFB119C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{589C7B01-D878-4FD4-B108-36D7BFB119C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{589C7B01-D878-4FD4-B108-36D7BFB119C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{589C7B01-D878-4FD4-B108-36D7BFB119C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
